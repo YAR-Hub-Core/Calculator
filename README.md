@@ -1,4 +1,4 @@
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](Screenshot.png)
 ![Calculator Screenshot](screenshotC.png)
 
 # Calculator - Python Internship Project
