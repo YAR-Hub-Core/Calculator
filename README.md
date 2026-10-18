@@ -1,5 +1,5 @@
-![Calculator Screenshot](screenshot(58).png)
-![Calculator Screenshot](screenshot(59).png)
+![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](screenshotC.png)
 
 # Calculator - Python Internship Project
 
